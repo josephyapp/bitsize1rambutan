@@ -1,0 +1,60 @@
+.pagehead {
+	background-color: dodgerblue;
+	color: Black;
+	text-align: center;
+	padding: 100px;
+}
+
+.navbar {
+	background-color:yellow;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	padding: 40px;
+}
+
+.body{
+	font-family: 'Poppins', sans-serif;
+}
+
+.content{
+	font-size: 20px;
+	width: 70%;
+	min-height: 400px;
+}
+
+.section{
+	font-size: 20px;
+	width: 80%;
+}
+
+.footer{
+	padding: 20px;
+	background-color: dodgerblue;
+	text-align: center;
+}
+
+.patrickstar{
+	width: 300px;
+	margin: 20px;
+	align-items: center;
+}
+
+.aside-list{
+	width: 30%;
+	background-color: grey;
+	padding-top: 30px;
+}
+
+.aside-list li{
+	margin-left: 30px;
+	width: 30%;
+}
+
+.float-left{
+	float: left;
+}
+
+.float-right{
+	float: right;
+}
